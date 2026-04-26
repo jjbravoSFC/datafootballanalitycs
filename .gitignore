@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de la IA
+.continue/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Datos (si tienes miles de archivos pequeños en /data)
+CSVs

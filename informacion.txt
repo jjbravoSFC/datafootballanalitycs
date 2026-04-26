@@ -1,0 +1,6 @@
+cd "C:\OneDrive\OneDrive\Desarrollos Locales\Temporadas Clasificaciones\"
+python -m streamlit run app.py
+
+
+pip install streamlit openai streamlit-option-menu plotly pandas openpyxl kaleido dataframe_image
+pip install openai streamlit-option-menu plotly pandas openpyxl kaleido dataframe_image
